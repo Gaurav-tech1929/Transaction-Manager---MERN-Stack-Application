@@ -1,5 +1,17 @@
-# Roxiler Mern Coding Challenge 
-This was a coding challenge given by Roxiler Systems for a Mern Stack Intern role. Based on the instructions and tasks given in the challenge, I have implemented all the functionalities of the backend and frontend 
+# 🚀 Transaction Manager - MERN Stack App 🌐
+
+Welcome to **Transaction Manager**, your go-to solution for managing and visualizing transaction data! This full-stack application, built on the MERN stack, offers an intuitive and powerful interface that brings your transaction insights to life. Dive in and discover how this tool can simplify your data management!
+
+## 🎯 Features at a Glance
+- **📋 Transaction Listings**: Effortlessly browse through records with advanced search, pagination, and filtering by month.
+- **📊 In-Depth Statistics**: Quickly view key metrics, such as total sales, sold items, and unsold items, tailored to your selected month.
+- **📈 Interactive Visualizations**: Make sense of your data with bar and pie charts, providing clear visuals of transaction trends.
+- **💻 Responsive Design**: Enjoy a sleek, mobile-friendly interface that works seamlessly across all devices.
+
+## 🛠️ Tech Stack
+This project utilizes the power of the MERN stack:
+- **Backend**: Node.js and Express.js for a robust API layer, with MongoDB for flexible data storage.
+- **Frontend**: React.js paired with Chart.js for a smooth, responsive, and visually appealing user experience.
 
 # Screenshots
 
@@ -20,12 +32,6 @@ This was a coding challenge given by Roxiler Systems for a Mern Stack Intern rol
 
 ### Statistics of Sep
 ![Screenshot 2023-11-14 205608](https://github.com/iompawar/roxiler-mern-coding-challenge/assets/88156970/a9802003-8757-43f3-af00-26d4c218e079)
-
-### Pie Chart of default month
-![Screenshot 2023-11-14 205736](https://github.com/iompawar/roxiler-mern-coding-challenge/assets/88156970/10877fd0-21e6-45c1-b9d6-5ae06465a193)
-
-### Pie Chart of Sep
-![Screenshot 2023-11-14 205838](https://github.com/iompawar/roxiler-mern-coding-challenge/assets/88156970/4a046e87-e52a-4e25-80fc-2951163b86d7)
 
 ### Bar Chart of default month
 ![Screenshot 2023-11-14 205959](https://github.com/iompawar/roxiler-mern-coding-challenge/assets/88156970/b8cdf9bd-988b-402d-99d2-9e67947d8929)
